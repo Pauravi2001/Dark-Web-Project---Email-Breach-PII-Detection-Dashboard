@@ -1,0 +1,98 @@
+[
+    {
+        "source": "dump1.csv",
+        "pii_type": "Email",
+        "value": "john@gmail.com",
+        "institutional": false,
+        "confidence": 0.95,
+        "timestamp": "2025-12-29T12:13:41.598218"
+    },
+    {
+        "source": "dump1.csv",
+        "pii_type": "Phone",
+        "value": "9876543210",
+        "institutional": false,
+        "confidence": 0.9,
+        "timestamp": "2025-12-29T12:13:41.598247"
+    },
+    {
+        "source": "dump1.csv",
+        "pii_type": "Name",
+        "value": "John",
+        "institutional": false,
+        "confidence": 0.8,
+        "timestamp": "2025-12-29T12:13:41.598264"
+    },
+    {
+        "source": "dump1.csv",
+        "pii_type": "Name",
+        "value": "Doe",
+        "institutional": false,
+        "confidence": 0.8,
+        "timestamp": "2025-12-29T12:13:41.598273"
+    },
+    {
+        "source": "dump2.csv",
+        "pii_type": "Email",
+        "value": "student@spit.ac.in",
+        "institutional": true,
+        "confidence": 0.95,
+        "timestamp": "2025-12-29T12:13:41.598381"
+    },
+    {
+        "source": "dump2.csv",
+        "pii_type": "Name",
+        "value": "Student",
+        "institutional": false,
+        "confidence": 0.8,
+        "timestamp": "2025-12-29T12:13:41.598397"
+    },
+    {
+        "source": "dump3.csv",
+        "pii_type": "Email",
+        "value": "alice@yahoo.com",
+        "institutional": false,
+        "confidence": 0.95,
+        "timestamp": "2025-12-29T12:13:41.598506"
+    },
+    {
+        "source": "dump3.csv",
+        "pii_type": "Name",
+        "value": "Alice",
+        "institutional": false,
+        "confidence": 0.8,
+        "timestamp": "2025-12-29T12:13:41.598522"
+    },
+    {
+        "source": "dump4.csv",
+        "pii_type": "Email",
+        "value": "emp@bank.com",
+        "institutional": false,
+        "confidence": 0.95,
+        "timestamp": "2025-12-29T12:13:41.598611"
+    },
+    {
+        "source": "dump4.csv",
+        "pii_type": "Phone",
+        "value": "9123456789",
+        "institutional": false,
+        "confidence": 0.9,
+        "timestamp": "2025-12-29T12:13:41.598623"
+    },
+    {
+        "source": "dump4.csv",
+        "pii_type": "Name",
+        "value": "Employee",
+        "institutional": false,
+        "confidence": 0.8,
+        "timestamp": "2025-12-29T12:13:41.598634"
+    },
+    {
+        "source": "dump5.csv",
+        "pii_type": "Name",
+        "value": "Learner",
+        "institutional": false,
+        "confidence": 0.8,
+        "timestamp": "2025-12-29T12:13:41.598718"
+    }
+]

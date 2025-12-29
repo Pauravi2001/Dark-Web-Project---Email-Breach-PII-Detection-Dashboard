@@ -1,0 +1,9 @@
+email,breach_status,breached_by,website_type
+john@gmail.com,Yes,DarkWeb Group,Forum
+student@spit.ac.in,Yes,DataLeak Corp,Education
+alice@yahoo.com,No,None,None
+employee@bank.com,Yes,Unknown Hacker,Finance
+learner@spit,Yes,DarkWeb Group,Education
+admin@facebook.com,Yes,DataLeak Corp,Social Media
+user@amazon.com,No,None,None
+customer@paypal.com,Yes,Unknown Hacker,E-commerce
